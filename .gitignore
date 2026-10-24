@@ -1,0 +1,18 @@
+# Python virtual environment (big, and rebuilt from requirements.txt)
+.venv/
+
+# Secrets like your VirusTotal API key
+.env
+
+# Python's compiled cache files
+__pycache__/
+*.pyc
+
+# PyCharm and VS Code settings (personal, not project code)
+.idea/
+.vscode/
+
+# macOS junk
+.DS_Store
+
+

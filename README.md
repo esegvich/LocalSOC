@@ -6,7 +6,7 @@ LocalSOC turns real SSH server logs into security alerts, triages them with a te
 
 No alert data ever leaves the machine.
 
-> Status: 🚧 In progress. See the [roadmap](#roadmap).
+> Status: In progress. See the [roadmap](#roadmap).
 
 ---
 
