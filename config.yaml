@@ -1,0 +1,3 @@
+model: gemma4:e2b        # confirm the exact name with `ollama list`
+ollama_host: http://localhost:11434
+temperature: 0
